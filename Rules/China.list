@@ -1,4 +1,4 @@
-#NAME: China  直连
+#NAME: China  直连QuanX
 
 HOST-KEYWORD,Authy
 HOST-SUFFIX,Authy.com
@@ -89,6 +89,12 @@ HOST-SUFFIX,souxs.pigqq.com
 HOST-SUFFIX,sma.yueyouxs.com
 HOST-SUFFIX,anduril.xmkanshu.com
 HOST-SUFFIX,andns.co
+HOST-SUFFIX,tongbu.com
+HOST-SUFFIX,ipchaxun.com
+HOST-SUFFIX,globalsign.com
+HOST-SUFFIX,bcevod.com
+HOST-SUFFIX,shakingcloud.com
+HOST-SUFFIX,en888.top
   
 HOST-SUFFIX,ctobsnssdk.com
 HOST-SUFFIX,adukwai.com
