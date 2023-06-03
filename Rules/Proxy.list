@@ -49,9 +49,15 @@ HOST-SUFFIX,mxplayer.in
 HOST-SUFFIX,mxplay.com
 HOST-SUFFIX,mx.j2inter.com
 HOST-SUFFIX,oneplus.net
+HOST-SUFFIX,speedtest.com
+HOST-SUFFIX,speedtest.net
+HOST-SUFFIX,onetrust.com
+HOST-SUFFIX,bluekai.com
 HOST-SUFFIX,mastodon.world
 HOST-KEYWORD,mastodon
+HOST-KEYWORD,speedtest
 HOST-SUFFIX,ixpsge.com
+
 IP-CIDR,149.154.172.0/22,no-resolve
 IP-CIDR,91.108.56.0/23,no-resolve
 IP-CIDR,155.248.192.0/19,no-resolve
