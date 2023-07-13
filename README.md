@@ -4,8 +4,13 @@
 #  规则收集自网络，部分个人有修改 参考/引用资源（不分先后顺序），感谢各位大佬的无私分享
 KopXiao.conf是Shawn@KOP-XIAO大佬的原版配置
 参考/引用资源（不分先后顺序），感谢各位大佬的无私分享。
+
 https://github.com/Semporia
+
 https://github.com/helmiau
+
 https://github.com/Loyalsoldier
+
 https://github.com/justdoiting
+
 https://github.com/blackmatrix7
