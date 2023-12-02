@@ -1,6 +1,6 @@
-#Reject
-# > Google
-safebrowsing.googleapis.com
+# # > Reject网络收集整理
+#Google
+HOST,safebrowsing.googleapis.com
 HOST-SUFFIX,ads.google.com
 HOST-SUFFIX,adservice.google.com
 HOST-SUFFIX,afd.l.google.com
@@ -18,9 +18,20 @@ HOST-SUFFIX,pagead-tpc.l.google.com
 HOST-SUFFIX,pagead.google.com
 HOST-SUFFIX,pagead.l.google.com
 
+#反诈
+HOST,miav-cse.avlyun.com
+HOST,a0.app.xiaomi.com
+HOST,miui-fxcse.avlyun.com
+HOST,api.installer.xiaomi.com
+IP-CIDR,157.148.0.0/16,no-resolve
 # > Tencent
 HOST,safebrowsing.urlsec.qq.com
- 
+# > 
+HOST,appcenter.ms
+HOST,app-meaturement.com
+HOST,firebase.io
+HOST,crashlytics.com
+HOST,zhanzhang.toutiao.com
 HOST-KEYWORD,admarvel
 HOST-KEYWORD,admaster
 HOST-KEYWORD,adsage
@@ -94,6 +105,9 @@ HOST-SUFFIX,adhouyi.com
 HOST-SUFFIX,adinfuse.com
 HOST-SUFFIX,adirects.com
 HOST-SUFFIX,adjust.io
+HOST-SUFFIX,adjust.com
+HOST-SUFFIX,adjust.world
+HOST-SUFFIX,adjust.net
 HOST-SUFFIX,adkmob.com
 HOST-SUFFIX,adlive.cn
 HOST-SUFFIX,adlocus.com
@@ -1162,16 +1176,16 @@ HOST-SUFFIX,logger.qingting.fm
 HOST-SUFFIX,s.qd.qingting.fm
 HOST-SUFFIX,s.qd.qingtingfm.com
 HOST-KEYWORD,omgmtaw
-adsmind.apdcdn.tc.qq.com
-adsmind.gdtimg.com
-adsmind.tc.qq.com
-pgdt.gtimg.cn
-pgdt.gtimg.com
-pgdt.ugdtimg.com
-splashqqlive.gtimg.com
-wa.gtimg.com
-wxsnsdy.wxs.qq.com
-wxsnsdythumb.wxs.qq.com
+HOST,adsmind.apdcdn.tc.qq.com
+HOST,adsmind.gdtimg.com
+HOST,adsmind.tc.qq.com
+HOST,pgdt.gtimg.cn
+HOST,pgdt.gtimg.com
+HOST,pgdt.ugdtimg.com
+HOST,splashqqlive.gtimg.com
+HOST,wa.gtimg.com
+HOST,wxsnsdy.wxs.qq.com
+HOST,wxsnsdythumb.wxs.qq.com
 HOST-SUFFIX,act.qq.com
 HOST-SUFFIX,ad.qun.qq.com
 HOST-SUFFIX,adsfile.qq.com
@@ -1832,9 +1846,8 @@ HOST-SUFFIX,zryydi.com
 # > Adobe Flash China Special Edition
 # https://www.zhihu.com/question/281163698/answer/441388130
 HOST-SUFFIX,flash.cn
-geo2.adobe.com
+HOST,geo2.adobe.com
 # > C&J Marketing
-# https://www.zhihu.com/question/46746200
 HOST-SUFFIX,4009997658.com
 HOST-SUFFIX,abbyychina.com
 HOST-SUFFIX,alienskins.cn
